@@ -1,5 +1,5 @@
 # SAT_Solver
-This Python SAT Solver program implements the Davis-Putnam Algorithm and propositonal encoding in order come up woth a solution to the Peg Puzzle game.
+This Python SAT Solver program implements the Davis-Putnam Algorithm and propositonal encoding in order come up with a solution to the Peg Puzzle game.
 
 ### How to run program:
 - Make sure Python3 is installed.
